@@ -1,4 +1,5 @@
-SIMPLE CALCULATOR USING PYTHON
+     SIMPLE CALCULATOR USING PYTHON
+------------------------------------------
 
 CODSOFT INTERN TASK - 1
 
